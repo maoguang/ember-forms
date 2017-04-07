@@ -21,7 +21,8 @@ Due to lack of time, I'm unable to continue the progress of this project and see
 With Ember-CLI:
 
 ```
-npm install --save-dev ember-idx-forms
+# npm install --save-dev ember-idx-forms # Deprecated
+npm install git+ssh://git@github.com:maoguang/ember-forms.git#0.6.1 --save-dev
 ```
 
 Please visit the documentation for installation & usage documentations: http://indexiatech.github.io/ember-forms
